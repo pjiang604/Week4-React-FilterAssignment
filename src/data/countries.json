@@ -1,0 +1,168 @@
+{
+  "sources": [
+    "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population",
+    "https://commons.wikimedia.org/wiki/Flag_map_of_the_world"
+  ],
+  "countries": [
+    {
+      "id": 1,
+      "name": "China",
+      "population": 1411750000,
+      "capital": "Beijing",
+      "continent": "Asia",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag-map_of_the_People%27s_Republic_of_China_%28de-facto%29.svg"
+    },
+    {
+      "id": 2,
+      "name": "India",
+      "population": 1392329000,
+      "capital": "New Delhi",
+      "continent": "Asia",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Flag-Map_of_India.png"
+    },
+    {
+      "id": 43,
+      "name": "United States",
+      "population": 335484000,
+      "capital": "Washington, D.C",
+      "continent": "North America",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Flag-map_of_the_United_States_%2850_states%29.svg"
+    },
+    {
+      "id": 4,
+      "name": "Indonesia",
+      "population": 278696200,
+      "capital": "Jakarta",
+      "continent": "Asia",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_map_of_Indonesia.svg"
+    },
+    {
+      "id": 5,
+      "name": "Pakistan",
+      "population": 241499431,
+      "capital": "Islamabad",
+      "continent": "Asia",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_map_of_Pakistan.svg"
+    },
+    {
+      "id": 6,
+      "name": "Nigeria",
+      "population": 216783400,
+      "capital": "Abuja",
+      "continent": "Africa",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Nigeria_flag_map.png"
+    },
+    {
+      "id": 7,
+      "name": "Brazil",
+      "population": 203062512,
+      "capital": "Brasilia",
+      "continent": "South America",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag-map_of_Brazil.svg"
+    },
+    {
+      "id": 8,
+      "name": "Bangladesh",
+      "population": 169828911,
+      "capital": "Dhaka",
+      "continent": "Asia",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag-map_of_Bangladesh.svg"
+    },
+    {
+      "id": 9,
+      "name": "Russia",
+      "population": 146424729,
+      "capital": "Moscow",
+      "continent": "Europe",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Flag-map_of_Russia.svg"
+    },
+    {
+      "id": 10,
+      "name": "Mexico",
+      "population": 129202482,
+      "capital": "Mexico City",
+      "continent": "South America",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Mexico_Flag_Map.svg"
+    },
+    {
+      "id": 11,
+      "name": "Japan",
+      "population": 124450000,
+      "capital": "Tokyo",
+      "continent": "Asia",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Flag-map_of_Japan.svg"
+    },
+    {
+      "id": 12,
+      "name": "Philippines",
+      "population": 110708000,
+      "capital": "Manila",
+      "continent": "Asia",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag-map_of_the_Philippines_%2B_small_islands.svg"
+    },
+    {
+      "id": 13,
+      "name": "Ethiopia",
+      "population": 107334000,
+      "capital": "Addis Ababa",
+      "continent": "Africa",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag-map_of_Ethiopia.svg"
+    },
+    {
+      "id": 14,
+      "name": "Egypt",
+      "population": 105348000,
+      "capital": "Cairo",
+      "continent": "Africa",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag-Map_of_Egypt.png"
+    },
+    {
+      "id": 15,
+      "name": "Vietnam",
+      "population": 100000000,
+      "capital": "Hanoi",
+      "continent": "Asia",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Flag-map_of_Vietnam_%28precise_boundaries%29.svg"
+    },
+    {
+      "id": 16,
+      "name": "DR Congo",
+      "population": 95370000,
+      "capital": "Kinshasa",
+      "continent": "Africa",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Flag-Map_of_the-Democratic-Republic-of-the-Congo_%28Without_Lakes%29.png"
+    },
+    {
+      "id": 17,
+      "name": "Iran",
+      "population": 85281400,
+      "capital": "Tehran",
+      "continent": "Asia",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Flag_map_of_Iran.svg"
+    },
+    {
+      "id": 18,
+      "name": "Turkey",
+      "population": 85279553,
+      "capital": "Ankara",
+      "continent": "Europe",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag-map_of_Turkey.svg"
+    },
+    {
+      "id": 19,
+      "name": "Germany",
+      "population": 84432670,
+      "capital": "Berlin",
+      "continent": "Europe",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Flag_map_of_Germany.svg"
+    },
+    {
+      "id": 20,
+      "name": "Thailand",
+      "population": 68263022,
+      "capital": "Bangkok",
+      "continent": "Asia",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Flag-map_of_Thailand_%28all%29.svg"
+    }
+  ]
+}
